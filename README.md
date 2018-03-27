@@ -187,5 +187,3 @@ $ node app.js
 
 我们会看到控制台输出了`username`和`password`的值
 
-
-# kk-koa-framework
